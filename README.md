@@ -18,18 +18,20 @@ Além da interface do cliente, o projeto também conta com uma área administrat
 
 ## 📸 Demonstração
 
-<!-- 
-Substitua os links abaixo pelas imagens enviadas no GitHub.
-Para adicionar imagens: abra uma Issue ou edite o README no GitHub, arraste as imagens e copie os links gerados.
--->
+<img width="2552" height="1090" alt="Captura de tela 2026-06-25 172745" src="https://github.com/user-attachments/assets/449713c7-532f-4e91-a2ed-0dad8ea940dd" />
+<img width="2558" height="1052" alt="Captura de tela 2026-06-25 172726" src="https://github.com/user-attachments/assets/0fb129ff-ae19-455c-b712-e4775029157f" />
+<img width="1907" height="432" alt="Captura de tela 2026-06-25 172703" src="https://github.com/user-attachments/assets/44f1947e-cee1-46a0-9528-61a98f234c1d" />
+<img width="1897" height="938" alt="Captura de tela 2026-06-25 172656" src="https://github.com/user-attachments/assets/664dbd6f-b30b-4488-b40f-53fc07628632" />
+<img width="1900" height="927" alt="Captura de tela 2026-06-25 172643" src="https://github.com/user-attachments/assets/9e76c297-0f44-4ba2-b1a4-0a0894a4dc49" />
+<img width="2558" height="1087" alt="Captura de tela 2026-06-25 172613" src="https://github.com/user-attachments/assets/dccafd77-f2bb-425e-bd0c-ad54f3b3ed72" />
+<img width="2558" height="1092" alt="Captura de tela 2026-06-25 172602" src="https://github.com/user-attachments/assets/ff9baf74-c2b3-479f-8640-038d0eba1e46" />
+<img width="2558" height="387" alt="Captura de tela 2026-06-25 172539" src="https://github.com/user-attachments/assets/23beb2d2-11a0-4a9f-93ea-c59bf9e3f6d3" />
+<img width="2558" height="1078" alt="Captura de tela 2026-06-25 172533" src="https://github.com/user-attachments/assets/467196dd-687f-497d-a54e-382c5d7dc87a" />
+<img width="2558" height="1072" alt="Captura de tela 2026-06-25 172522" src="https://github.com/user-attachments/assets/e88d25ee-4a95-4ade-97ad-00d30daac7aa" />
+<img width="2553" height="1108" alt="Captura de tela 2026-06-25 172512" src="https://github.com/user-attachments/assets/be48aecf-20f2-44d6-a2f9-ae6909a8c451" />
+<img width="2552" height="1181" alt="Captura de tela 2026-06-25 172450" src="https://github.com/user-attachments/assets/b2a95437-2bcd-4400-8feb-c55d3b9a3bb2" />
 
-<img width="2559" alt="Home Case R1" src="COLE_AQUI_O_LINK_DA_IMAGEM_DA_HOME" />
-<img width="2559" alt="Página do produto com personalização" src="COLE_AQUI_O_LINK_DA_PAGINA_DO_PRODUTO" />
-<img width="2559" alt="Preview personalizado no produto" src="COLE_AQUI_O_LINK_DO_PREVIEW_PERSONALIZADO" />
-<img width="2559" alt="Painel de personalização no WordPress" src="COLE_AQUI_O_LINK_DO_ADMIN_PERSONALIZACAO" />
-<img width="2559" alt="Minha conta do cliente" src="COLE_AQUI_O_LINK_DA_MINHA_CONTA" />
 
----
 
 ## 🚀 Funcionalidades Principais
 
@@ -122,157 +124,3 @@ O projeto foi desenvolvido utilizando tecnologias web e recursos personalizados 
 * **Fontes personalizadas `.ttf` e `.otf`**
 * **Sistema de geração de arquivo TIFF**
 * **Customização de tema e painel administrativo**
-
----
-
-## 🎯 Destaques Técnicos
-
-* Desenvolvimento de interface alinhada à identidade visual da marca.
-* Customização avançada do WooCommerce.
-* Criação de campos personalizados por produto.
-* Sistema de preview em tempo real.
-* Organização de produtos por categoria, subcategoria e coleção.
-* Configuração individual para imagens de galeria.
-* Integração entre compra, pedido e produção.
-* Geração de arquivo final para produção.
-* Área do cliente personalizada e responsiva.
-* Layout adaptado para desktop, tablet e mobile.
-
----
-
-## 📂 Estrutura Geral do Projeto
-
-A estrutura pode variar conforme a versão publicada, mas o projeto segue uma organização semelhante a:
-
-```bash
-case-r1/
-│
-├── wp-content/
-│   ├── themes/
-│   │   └── case-r1/
-│   │       ├── assets/
-│   │       │   ├── css/
-│   │       │   ├── js/
-│   │       │   └── images/
-│   │       ├── functions.php
-│   │       ├── header.php
-│   │       ├── footer.php
-│   │       └── woocommerce/
-│   │
-│   └── plugins/
-│       └── case-r1-personalizacao/
-│           ├── assets/
-│           ├── includes/
-│           └── case-r1-personalizacao.php
-│
-└── README.md
-```
-
----
-
-## ⚙️ Como Executar Localmente
-
-> Este projeto depende de um ambiente WordPress com WooCommerce instalado.
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/joaork/case-r1.git
-```
-
-2. Copie os arquivos do tema/plugin para a pasta `wp-content`.
-
-3. Crie ou importe um banco de dados WordPress.
-
-4. Configure o arquivo `wp-config.php` com os dados do banco.
-
-5. Ative o tema e os plugins necessários pelo painel administrativo.
-
-6. Instale e ative o WooCommerce.
-
-7. Cadastre os produtos e configure as personalizações.
-
----
-
-## 🧪 Guia Rápido de Uso
-
-### Criar um produto
-
-1. Acesse o painel do WordPress.
-2. Vá em **Produtos > Adicionar novo**.
-3. Informe nome, descrição, preço e imagem principal.
-4. Selecione categoria e subcategoria.
-5. Publique o produto.
-
-### Criar produto variável com cores
-
-1. Em **Dados do produto**, selecione **Produto variável**.
-2. Crie um atributo, como `Cor`.
-3. Marque a opção **Usado para variações**.
-4. Gere as variações.
-5. Configure preço, estoque e imagem de cada cor.
-
-### Ativar personalização
-
-1. Abra a edição do produto.
-2. Localize a área **Personalização Case R1**.
-3. Ative a personalização obrigatória.
-4. Defina título, placeholder e limite de caracteres.
-5. Configure fonte, cor, tamanho e posição.
-6. Salve o produto.
-
-### Baixar TIFF de produção
-
-1. Aguarde a confirmação do pagamento.
-2. Acesse o pedido no painel do WooCommerce.
-3. Abra os itens do pedido.
-4. Clique em **Baixar TIFF de produção**.
-5. Envie o arquivo para o processo de impressão/personalização.
-
----
-
-## 📐 Recomendações de Imagens
-
-Para manter qualidade visual no site, recomenda-se:
-
-* **Imagem principal do produto:** 1200x1200 px ou superior.
-* **Cards de produto:** proporção quadrada, preferencialmente 1:1.
-* **Banners desktop:** 1920x700 px ou superior.
-* **Banners mobile:** versão vertical ou adaptada para telas menores.
-* **Imagens de variações:** mesma posição e enquadramento para todas as cores.
-* **Arquivos de produção:** usar imagens em alta resolução e sem compressão excessiva.
-
----
-
-## 🔒 Observação Sobre o Repositório Público
-
-Este repositório tem finalidade demonstrativa e profissional. Algumas partes podem ter sido removidas ou adaptadas para proteger:
-
-* Dados reais do cliente.
-* Informações de pagamento.
-* Credenciais e chaves privadas.
-* Arquivos de produção.
-* Lógicas internas específicas.
-* Integrações privadas.
-* Configurações do servidor.
-
----
-
-## 👨‍💻 Desenvolvedor
-
-Desenvolvido por **João Lima**.
-
-* GitHub: [joaork](https://github.com/joaork)
-* LinkedIn: [jl-profile](https://linkedin.com/in/jl-profile)
-* E-mail: joaovictorscr1@gmail.com
-
----
-
-## 📌 Status do Projeto
-
-✅ Projeto concluído  
-✅ Interface responsiva  
-✅ Personalização em tempo real  
-✅ Integração com WooCommerce  
-✅ Painel administrativo customizado  
-✅ Geração de arquivo para produção  
