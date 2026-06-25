@@ -18,18 +18,19 @@ Além da interface do cliente, o projeto também conta com uma área administrat
 
 ## 📸 Demonstração
 
-<img width="2552" height="1090" alt="Captura de tela 2026-06-25 172745" src="https://github.com/user-attachments/assets/449713c7-532f-4e91-a2ed-0dad8ea940dd" />
-<img width="2558" height="1052" alt="Captura de tela 2026-06-25 172726" src="https://github.com/user-attachments/assets/0fb129ff-ae19-455c-b712-e4775029157f" />
-<img width="1907" height="432" alt="Captura de tela 2026-06-25 172703" src="https://github.com/user-attachments/assets/44f1947e-cee1-46a0-9528-61a98f234c1d" />
-<img width="1897" height="938" alt="Captura de tela 2026-06-25 172656" src="https://github.com/user-attachments/assets/664dbd6f-b30b-4488-b40f-53fc07628632" />
-<img width="1900" height="927" alt="Captura de tela 2026-06-25 172643" src="https://github.com/user-attachments/assets/9e76c297-0f44-4ba2-b1a4-0a0894a4dc49" />
-<img width="2558" height="1087" alt="Captura de tela 2026-06-25 172613" src="https://github.com/user-attachments/assets/dccafd77-f2bb-425e-bd0c-ad54f3b3ed72" />
-<img width="2558" height="1092" alt="Captura de tela 2026-06-25 172602" src="https://github.com/user-attachments/assets/ff9baf74-c2b3-479f-8640-038d0eba1e46" />
-<img width="2558" height="387" alt="Captura de tela 2026-06-25 172539" src="https://github.com/user-attachments/assets/23beb2d2-11a0-4a9f-93ea-c59bf9e3f6d3" />
-<img width="2558" height="1078" alt="Captura de tela 2026-06-25 172533" src="https://github.com/user-attachments/assets/467196dd-687f-497d-a54e-382c5d7dc87a" />
-<img width="2558" height="1072" alt="Captura de tela 2026-06-25 172522" src="https://github.com/user-attachments/assets/e88d25ee-4a95-4ade-97ad-00d30daac7aa" />
-<img width="2553" height="1108" alt="Captura de tela 2026-06-25 172512" src="https://github.com/user-attachments/assets/be48aecf-20f2-44d6-a2f9-ae6909a8c451" />
-<img width="2552" height="1181" alt="Captura de tela 2026-06-25 172450" src="https://github.com/user-attachments/assets/b2a95437-2bcd-4400-8feb-c55d3b9a3bb2" />
+<img width="2558" height="1052" alt="Captura de tela 2026-06-25 172726" src="https://github.com/user-attachments/assets/6434dd1c-8e04-43c6-8918-8d7a292beb70" />
+<img width="1907" height="432" alt="Captura de tela 2026-06-25 172703" src="https://github.com/user-attachments/assets/4fa5e438-0a38-4ec4-9c8a-953ed5df1262" />
+<img width="1897" height="938" alt="Captura de tela 2026-06-25 172656" src="https://github.com/user-attachments/assets/48981209-a5f0-4c6d-8d8b-afba7cd4b564" />
+<img width="1900" height="927" alt="Captura de tela 2026-06-25 172643" src="https://github.com/user-attachments/assets/a4ce196b-81c2-4342-8b3d-a32c53956502" />
+<img width="2558" height="1087" alt="Captura de tela 2026-06-25 172613" src="https://github.com/user-attachments/assets/d7d7cf0e-d87a-4513-bbdc-52cb135ad943" />
+<img width="2558" height="1092" alt="Captura de tela 2026-06-25 172602" src="https://github.com/user-attachments/assets/91f6e18c-8006-48a3-a142-0622cbbba625" />
+<img width="2558" height="387" alt="Captura de tela 2026-06-25 172539" src="https://github.com/user-attachments/assets/f81762f3-16d8-4dec-9278-baa7ca97bcc0" />
+<img width="2558" height="1078" alt="Captura de tela 2026-06-25 172533" src="https://github.com/user-attachments/assets/26bef325-eead-458a-aec6-6084bc8e2748" />
+<img width="2558" height="1072" alt="Captura de tela 2026-06-25 172522" src="https://github.com/user-attachments/assets/aa44ecb8-2867-4990-a609-2d4178451faf" />
+<img width="2553" height="1108" alt="Captura de tela 2026-06-25 172512" src="https://github.com/user-attachments/assets/61654979-b641-431a-858d-8cf659458b45" />
+<img width="2552" height="1181" alt="Captura de tela 2026-06-25 172450" src="https://github.com/user-attachments/assets/04da3a28-6531-462c-8cbd-c9b75df7e3aa" />
+<img width="2552" height="1090" alt="Captura de tela 2026-06-25 172745" src="https://github.com/user-attachments/assets/f6710073-14f3-4273-8add-423bbcf6c2fa" />
+
 
 
 
